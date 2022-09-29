@@ -1,7 +1,7 @@
-Algoritmo "semnome"
+Algoritmo calculo de média
 // Disciplina   : [Linguagem e Lógica de Programação]
 // Professor   :Rafael
-// Descrição   : saber se o aluno foi aprovado ou reprovado e se tiver sido aprovado, se for nota 10 marcar como parabens 
+// Descrição   : Saber se o aluno foi aprovado ou reprovado e se tiver sido aprovado, se for nota 10 marcar como parabens.
 // Autor(a)    : Isabelle Fernandes Lopes
 // Data atual  : 29/09/2022
 Var
