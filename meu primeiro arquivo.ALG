@@ -1,8 +1,8 @@
 Algoritmo "semnome"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
+// Professor   :Rafael
+// DescriÃ§Ã£o   : saber se o aluno foi aprovado ou reprovado e se tiver sido aprovado, se for nota 10 marcar como parabens 
+// Autor(a)    : Isabelle Fernandes Lopes
 // Data atual  : 29/09/2022
 Var
 v1:real
@@ -22,7 +22,7 @@ leia(v4)
 escreval((v1+v2+v3+v4)/4)
 media<-((v1+v2+V3+v4)/4)
 escreval(media/4)
-escreval("a nota doa aluno é",(media))
+escreval("a nota doa aluno Ã©",(media))
 se media >= 6 entao
 escreval ("aprovado")
 senao
